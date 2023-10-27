@@ -1,0 +1,3 @@
+function AlertStudent() {
+    alert("Hello")
+}
