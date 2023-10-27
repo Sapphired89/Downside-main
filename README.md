@@ -4,7 +4,7 @@ DownSide is a hacked version of the website 'UpSign'that allows teachers to crea
 
 ## Some Background
 
-I go to a school that has a flexible schedule on Fridays. Teachers need to create workshops. Students need to sign up for them. This is an small web app I hacked that facilitate all of that, and allows me unrestriucted access, though I don't do anything malicious.
+I go to a school that has a flexible schedule on Fridays. Teachers need to create workshops. Students need to sign up for them. This is an small web app I edited that facilitate all of that, and allows me unrestriucted access, though I don't do anything malicious.
 
 ## Setup
 You will need...
